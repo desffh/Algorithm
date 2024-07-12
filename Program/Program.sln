@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Program", "Program.vcxproj"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class1th (Brute Force)", "Class1th (Brute Force)\Class1th (Brute Force).vcxproj", "{6840E798-4B41-4C29-A370-2F93A3D6CEBA}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class2th (Sieve of Eratosthtenes)", "Class2th (Sieve of Eratosthtenes)\Class2th (Sieve of Eratosthtenes).vcxproj", "{1C3A990B-D488-4F51-85D1-1F7F868C81C3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{6840E798-4B41-4C29-A370-2F93A3D6CEBA}.Release|x64.Build.0 = Release|x64
 		{6840E798-4B41-4C29-A370-2F93A3D6CEBA}.Release|x86.ActiveCfg = Release|Win32
 		{6840E798-4B41-4C29-A370-2F93A3D6CEBA}.Release|x86.Build.0 = Release|Win32
+		{1C3A990B-D488-4F51-85D1-1F7F868C81C3}.Debug|x64.ActiveCfg = Debug|x64
+		{1C3A990B-D488-4F51-85D1-1F7F868C81C3}.Debug|x64.Build.0 = Debug|x64
+		{1C3A990B-D488-4F51-85D1-1F7F868C81C3}.Debug|x86.ActiveCfg = Debug|Win32
+		{1C3A990B-D488-4F51-85D1-1F7F868C81C3}.Debug|x86.Build.0 = Debug|Win32
+		{1C3A990B-D488-4F51-85D1-1F7F868C81C3}.Release|x64.ActiveCfg = Release|x64
+		{1C3A990B-D488-4F51-85D1-1F7F868C81C3}.Release|x64.Build.0 = Release|x64
+		{1C3A990B-D488-4F51-85D1-1F7F868C81C3}.Release|x86.ActiveCfg = Release|Win32
+		{1C3A990B-D488-4F51-85D1-1F7F868C81C3}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

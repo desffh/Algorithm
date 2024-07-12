@@ -1,33 +1,49 @@
 ﻿#include <iostream>
+#define SIZE 5
 
 using namespace std;
 
-bool IsPrime(int n)
-{
-	// 0,1은 소수가 아님
-	if (n <= 1)
-	{
-		return false;
-	}
+int list[SIZE] = {15,25,35,5,20};
 
-	for (int i = 2; i < n; i++)
+void Number()
+{
+	for(int i = 0; i < SIZE - 1; i++)
 	{
-		if (n % i == 0) // 나누어 떨어지면
+		for (int j = 0; j < (SIZE - i) - 1; j++)
 		{
-			return false;
+			if (list[j] > list[j + 1])
+			{
+				std::swap(list[j], list[j + 1]);
+			}
+			else
+			{
+				continue;
+			}
 		}
 	}
 
-	return true;
+	for (const int& element : list)
+	{
+		cout << element << " ";
+	}
+
+	//for (int i = 0; i < SIZE; i++)
+	//{
+	//	cout << list[i] << " ";
+	//}
 }
+
 
 
 int main()
 {
-	cout << IsPrime(0) << endl; // 0
-	cout << IsPrime(1) << endl; // 0
-	cout << IsPrime(3) << endl; // 1 소수맞음
-	cout << IsPrime(7) << endl; // 1 소수맞음
+#pragma region 거품 정렬
+	// 서로 인접한 두 원소를 검사하여 정렬하는 알고리즘입니다.
+
+	Number();
+
+#pragma endregion
+
 
 
 	return 0;

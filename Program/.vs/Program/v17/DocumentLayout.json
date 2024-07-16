@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{45C37583-2563-444A-82FD-C7B1AB5A621A}|Program.vcxproj|solutionrelative:Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{FA865881-269F-4C4C-835E-049836F22F5D}|Class6th (Two Pointer)\\Class6th (Two Pointer).vcxproj|C:\\Users\\\uAE40\uC720\uC9C4\\Desktop\\AlgorithmTest\\Algorithm\\Program\\Class6th (Two Pointer)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FA865881-269F-4C4C-835E-049836F22F5D}|Class6th (Two Pointer)\\Class6th (Two Pointer).vcxproj|solutionrelative:Class6th (Two Pointer)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{946AE9F5-700A-4F46-8303-E0B56F4964B9}|Class5th (Insert Sort)\\Class5th (Insert Sort).vcxproj|C:\\Users\\\uAE40\uC720\uC9C4\\Desktop\\AlgorithmTest\\Algorithm\\Program\\Class5th (Insert Sort)\\Class5th (Insert Sort).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{946AE9F5-700A-4F46-8303-E0B56F4964B9}|Class5th (Insert Sort)\\Class5th (Insert Sort).vcxproj|solutionrelative:Class5th (Insert Sort)\\Class5th (Insert Sort).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -34,24 +38,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Class5th (Insert Sort).cpp",
-              "DocumentMoniker": "C:\\Users\\\uAE40\uC720\uC9C4\\Desktop\\AlgorithmTest\\Algorithm\\Program\\Class5th (Insert Sort)\\Class5th (Insert Sort).cpp",
-              "RelativeDocumentMoniker": "Class5th (Insert Sort)\\Class5th (Insert Sort).cpp",
-              "ToolTip": "C:\\Users\\\uAE40\uC720\uC9C4\\Desktop\\AlgorithmTest\\Algorithm\\Program\\Class5th (Insert Sort)\\Class5th (Insert Sort).cpp",
-              "RelativeToolTip": "Class5th (Insert Sort)\\Class5th (Insert Sort).cpp",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAgwC8AAAAAAAAA",
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\\uAE40\uC720\uC9C4\\Desktop\\AlgorithmTest\\Algorithm\\Program\\Class6th (Two Pointer)\\Source.cpp",
+              "RelativeDocumentMoniker": "Class6th (Two Pointer)\\Source.cpp",
+              "ToolTip": "C:\\Users\\\uAE40\uC720\uC9C4\\Desktop\\AlgorithmTest\\Algorithm\\Program\\Class6th (Two Pointer)\\Source.cpp",
+              "RelativeToolTip": "Class6th (Two Pointer)\\Source.cpp",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAD0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-07-15T10:42:13.821Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-16T10:01:31.611Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\\uAE40\uC720\uC9C4\\Desktop\\AlgorithmTest\\Algorithm\\Program\\Class2th (Sieve of Eratosthtenes)\\Source.cpp",
               "RelativeDocumentMoniker": "Class2th (Sieve of Eratosthtenes)\\Source.cpp",
@@ -59,12 +62,36 @@
               "RelativeToolTip": "Class2th (Sieve of Eratosthtenes)\\Source.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-07-13T14:07:24.473Z",
+              "WhenOpened": "2024-07-13T14:07:24.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\\uAE40\uC720\uC9C4\\Desktop\\AlgorithmTest\\Algorithm\\Program\\Source.cpp",
+              "RelativeDocumentMoniker": "Source.cpp",
+              "ToolTip": "C:\\Users\\\uAE40\uC720\uC9C4\\Desktop\\AlgorithmTest\\Algorithm\\Program\\Source.cpp",
+              "RelativeToolTip": "Source.cpp",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-13T14:07:24.849Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
+              "Title": "Class5th (Insert Sort).cpp",
+              "DocumentMoniker": "C:\\Users\\\uAE40\uC720\uC9C4\\Desktop\\AlgorithmTest\\Algorithm\\Program\\Class5th (Insert Sort)\\Class5th (Insert Sort).cpp",
+              "RelativeDocumentMoniker": "Class5th (Insert Sort)\\Class5th (Insert Sort).cpp",
+              "ToolTip": "C:\\Users\\\uAE40\uC720\uC9C4\\Desktop\\AlgorithmTest\\Algorithm\\Program\\Class5th (Insert Sort)\\Class5th (Insert Sort).cpp",
+              "RelativeToolTip": "Class5th (Insert Sort)\\Class5th (Insert Sort).cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-15T10:42:13.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\\uAE40\uC720\uC9C4\\Desktop\\AlgorithmTest\\Algorithm\\Program\\Class1th (Brute Force)\\Source.cpp",
               "RelativeDocumentMoniker": "Class1th (Brute Force)\\Source.cpp",
@@ -76,20 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Source.cpp",
-              "DocumentMoniker": "C:\\Users\\\uAE40\uC720\uC9C4\\Desktop\\AlgorithmTest\\Algorithm\\Program\\Source.cpp",
-              "RelativeDocumentMoniker": "Source.cpp",
-              "ToolTip": "C:\\Users\\\uAE40\uC720\uC9C4\\Desktop\\AlgorithmTest\\Algorithm\\Program\\Source.cpp",
-              "RelativeToolTip": "Source.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-07-13T14:07:24.849Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\\uAE40\uC720\uC9C4\\Desktop\\AlgorithmTest\\Algorithm\\Program\\Class4th ( Select Sort)\\Source.cpp",
               "RelativeDocumentMoniker": "Class4th ( Select Sort)\\Source.cpp",
@@ -97,12 +111,11 @@
               "RelativeToolTip": "Class4th ( Select Sort)\\Source.cpp",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-07-15T09:46:09.384Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-15T09:46:09.384Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\\uAE40\uC720\uC9C4\\Desktop\\AlgorithmTest\\Algorithm\\Program\\Class3th (Bubble Sort)\\Source.cpp",
               "RelativeDocumentMoniker": "Class3th (Bubble Sort)\\Source.cpp",
@@ -110,8 +123,7 @@
               "RelativeToolTip": "Class3th (Bubble Sort)\\Source.cpp",
               "ViewState": "AQIAAA8AAAAAAAAAAAAAACUAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-07-15T09:02:43.343Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-15T09:02:43.343Z"
             }
           ]
         }

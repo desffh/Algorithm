@@ -8,7 +8,7 @@ int list[SIZE] = { 3, 6, 7, 9, 5 };
 // 출력값: 3 5 6 7 9 나와야함
 void Select()
 {
-	for (int i = 0; i < SIZE; i++)
+	for (int i = 0; i < SIZE-1; i++)
 	{
 		int min = list[i];
 

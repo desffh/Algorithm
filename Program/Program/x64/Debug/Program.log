@@ -1,3 +1,2 @@
 ﻿  Source.cpp
-C:\Users\yangj\OneDrive\바탕 화면\Algorithm\Program\Source.cpp(40,13): error C2660: 'Fibonacci': 함수는 1개의 인수를 사용하지 않습니다.
-C:\Users\yangj\OneDrive\바탕 화면\Algorithm\Program\Source.cpp(40,10): error C2088: 기본 제공 연산자 '<<'은(는) 'std::ostream' 형식의 피연산자에 적용될 수 없습니다.
+  Program.vcxproj -> C:\Users\yangj\OneDrive\바탕 화면\Algorithm\Program\x64\Debug\Program.exe

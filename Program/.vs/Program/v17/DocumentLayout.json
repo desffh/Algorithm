@@ -7,8 +7,16 @@
       "RelativeMoniker": "D:0:0:{45C37583-2563-444A-82FD-C7B1AB5A621A}|Program.vcxproj|solutionrelative:Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{143CFF69-F836-4440-A49D-57FF7CB1B910}|Class10th (Merge Sort)\\Class10th (Merge Sort).vcxproj|C:\\Users\\yangj\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Algorithm\\Program\\Class10th (Merge Sort)\\Class10th (Merge Sort).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{143CFF69-F836-4440-A49D-57FF7CB1B910}|Class10th (Merge Sort)\\Class10th (Merge Sort).vcxproj|solutionrelative:Class10th (Merge Sort)\\Class10th (Merge Sort).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{EEA58FC0-9814-45CF-85C6-1A74DBD1F286}|Class12th (Greedy)\\Class12th (Greedy).vcxproj|C:\\Users\\yangj\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Algorithm\\Program\\Class12th (Greedy)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EEA58FC0-9814-45CF-85C6-1A74DBD1F286}|Class12th (Greedy)\\Class12th (Greedy).vcxproj|solutionrelative:Class12th (Greedy)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CB01C8B-B0A0-4221-BB8E-6892DB678A00}|Class11th ( Dynamic Programming)\\Class11th ( Dynamic Programming).vcxproj|C:\\Users\\yangj\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Algorithm\\Program\\Class11th ( Dynamic Programming)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0CB01C8B-B0A0-4221-BB8E-6892DB678A00}|Class11th ( Dynamic Programming)\\Class11th ( Dynamic Programming).vcxproj|solutionrelative:Class11th ( Dynamic Programming)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{143CFF69-F836-4440-A49D-57FF7CB1B910}|Class10th (Merge Sort)\\Class10th (Merge Sort).vcxproj|C:\\Users\\yangj\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Algorithm\\Program\\Class10th (Merge Sort)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{143CFF69-F836-4440-A49D-57FF7CB1B910}|Class10th (Merge Sort)\\Class10th (Merge Sort).vcxproj|solutionrelative:Class10th (Merge Sort)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F6C24487-04EC-4B41-B92B-368D8B083B4B}|Class9th (Quick Sort)\\Class9th (Quick Sort).vcxproj|C:\\Users\\yangj\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Algorithm\\Program\\Class9th (Quick Sort)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -54,16 +62,42 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Class10th (Merge Sort).cpp",
-              "DocumentMoniker": "C:\\Users\\yangj\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Algorithm\\Program\\Class10th (Merge Sort)\\Class10th (Merge Sort).cpp",
-              "RelativeDocumentMoniker": "Class10th (Merge Sort)\\Class10th (Merge Sort).cpp",
-              "ToolTip": "C:\\Users\\yangj\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Algorithm\\Program\\Class10th (Merge Sort)\\Class10th (Merge Sort).cpp",
-              "RelativeToolTip": "Class10th (Merge Sort)\\Class10th (Merge Sort).cpp",
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\yangj\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Algorithm\\Program\\Class12th (Greedy)\\Source.cpp",
+              "RelativeDocumentMoniker": "Class12th (Greedy)\\Source.cpp",
+              "ToolTip": "C:\\Users\\yangj\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Algorithm\\Program\\Class12th (Greedy)\\Source.cpp",
+              "RelativeToolTip": "Class12th (Greedy)\\Source.cpp",
+              "ViewState": "AQIAACkAAAAAAAAAAAAswFUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-22T10:22:02.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\yangj\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Algorithm\\Program\\Class11th ( Dynamic Programming)\\Source.cpp",
+              "RelativeDocumentMoniker": "Class11th ( Dynamic Programming)\\Source.cpp",
+              "ToolTip": "C:\\Users\\yangj\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Algorithm\\Program\\Class11th ( Dynamic Programming)\\Source.cpp",
+              "RelativeToolTip": "Class11th ( Dynamic Programming)\\Source.cpp",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAwwDMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-22T09:19:23.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\yangj\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Algorithm\\Program\\Class10th (Merge Sort)\\Source.cpp",
+              "RelativeDocumentMoniker": "Class10th (Merge Sort)\\Source.cpp",
+              "ToolTip": "C:\\Users\\yangj\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Algorithm\\Program\\Class10th (Merge Sort)\\Source.cpp",
+              "RelativeToolTip": "Class10th (Merge Sort)\\Source.cpp",
               "ViewState": "AQIAAEUAAAAAAAAAAAAYwF0AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-07-19T10:02:06.313Z",
@@ -71,19 +105,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\yangj\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Algorithm\\Program\\Class9th (Quick Sort)\\Source.cpp",
               "RelativeDocumentMoniker": "Class9th (Quick Sort)\\Source.cpp",
               "ToolTip": "C:\\Users\\yangj\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Algorithm\\Program\\Class9th (Quick Sort)\\Source.cpp",
               "RelativeToolTip": "Class9th (Quick Sort)\\Source.cpp",
-              "ViewState": "AQIAADAAAAAAAAAAAAAAAE0AAAAAAAAA",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAE0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-07-18T10:06:06.362Z"
+              "WhenOpened": "2024-07-18T10:06:06.362Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\yangj\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Algorithm\\Program\\Class8th (Divide \u0026 Qunquer)\\Source.cpp",
               "RelativeDocumentMoniker": "Class8th (Divide \u0026 Qunquer)\\Source.cpp",
@@ -95,7 +130,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\yangj\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Algorithm\\Program\\Class7th (Finary Search)\\Source.cpp",
               "RelativeDocumentMoniker": "Class7th (Finary Search)\\Source.cpp",
@@ -113,14 +148,14 @@
               "RelativeDocumentMoniker": "Source.cpp",
               "ToolTip": "C:\\Users\\yangj\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Algorithm\\Program\\Source.cpp",
               "RelativeToolTip": "Source.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-07-13T14:07:24.849Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Class5th (Insert Sort).cpp",
               "DocumentMoniker": "C:\\Users\\yangj\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Algorithm\\Program\\Class5th (Insert Sort)\\Class5th (Insert Sort).cpp",
               "RelativeDocumentMoniker": "Class5th (Insert Sort)\\Class5th (Insert Sort).cpp",
@@ -132,7 +167,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\yangj\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Algorithm\\Program\\Class3th (Bubble Sort)\\Source.cpp",
               "RelativeDocumentMoniker": "Class3th (Bubble Sort)\\Source.cpp",
@@ -144,7 +179,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\yangj\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Algorithm\\Program\\Class4th ( Select Sort)\\Source.cpp",
               "RelativeDocumentMoniker": "Class4th ( Select Sort)\\Source.cpp",
@@ -156,7 +191,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\yangj\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Algorithm\\Program\\Class2th (Sieve of Eratosthtenes)\\Source.cpp",
               "RelativeDocumentMoniker": "Class2th (Sieve of Eratosthtenes)\\Source.cpp",
@@ -168,7 +203,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\yangj\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Algorithm\\Program\\Class6th (Two Pointer)\\Source.cpp",
               "RelativeDocumentMoniker": "Class6th (Two Pointer)\\Source.cpp",
@@ -180,7 +215,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\yangj\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Algorithm\\Program\\Class1th (Brute Force)\\Source.cpp",
               "RelativeDocumentMoniker": "Class1th (Brute Force)\\Source.cpp",

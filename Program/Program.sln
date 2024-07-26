@@ -39,6 +39,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class15th (Back Tracking)",
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class16th (Depth First Search)", "Class16th (Depth First Search)\Class16th (Depth First Search).vcxproj", "{6B22BE0C-446D-41E3-B4D0-01999A4CF6D3}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class17th (Breadth First Search)", "Class17th (Breadth First Search)\Class17th (Breadth First Search).vcxproj", "{8D23C56D-6A31-495B-8B2F-F95678B5C524}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -191,6 +193,14 @@ Global
 		{6B22BE0C-446D-41E3-B4D0-01999A4CF6D3}.Release|x64.Build.0 = Release|x64
 		{6B22BE0C-446D-41E3-B4D0-01999A4CF6D3}.Release|x86.ActiveCfg = Release|Win32
 		{6B22BE0C-446D-41E3-B4D0-01999A4CF6D3}.Release|x86.Build.0 = Release|Win32
+		{8D23C56D-6A31-495B-8B2F-F95678B5C524}.Debug|x64.ActiveCfg = Debug|x64
+		{8D23C56D-6A31-495B-8B2F-F95678B5C524}.Debug|x64.Build.0 = Debug|x64
+		{8D23C56D-6A31-495B-8B2F-F95678B5C524}.Debug|x86.ActiveCfg = Debug|Win32
+		{8D23C56D-6A31-495B-8B2F-F95678B5C524}.Debug|x86.Build.0 = Debug|Win32
+		{8D23C56D-6A31-495B-8B2F-F95678B5C524}.Release|x64.ActiveCfg = Release|x64
+		{8D23C56D-6A31-495B-8B2F-F95678B5C524}.Release|x64.Build.0 = Release|x64
+		{8D23C56D-6A31-495B-8B2F-F95678B5C524}.Release|x86.ActiveCfg = Release|Win32
+		{8D23C56D-6A31-495B-8B2F-F95678B5C524}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

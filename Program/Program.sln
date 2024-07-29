@@ -41,6 +41,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class16th (Depth First Sear
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class17th (Breadth First Search)", "Class17th (Breadth First Search)\Class17th (Breadth First Search).vcxproj", "{8D23C56D-6A31-495B-8B2F-F95678B5C524}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class18th (Topology Sort)", "Class18th (Topology Sort)\Class18th (Topology Sort).vcxproj", "{FAF9FF45-539A-469D-8C5B-C08705023FD2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -201,6 +203,14 @@ Global
 		{8D23C56D-6A31-495B-8B2F-F95678B5C524}.Release|x64.Build.0 = Release|x64
 		{8D23C56D-6A31-495B-8B2F-F95678B5C524}.Release|x86.ActiveCfg = Release|Win32
 		{8D23C56D-6A31-495B-8B2F-F95678B5C524}.Release|x86.Build.0 = Release|Win32
+		{FAF9FF45-539A-469D-8C5B-C08705023FD2}.Debug|x64.ActiveCfg = Debug|x64
+		{FAF9FF45-539A-469D-8C5B-C08705023FD2}.Debug|x64.Build.0 = Debug|x64
+		{FAF9FF45-539A-469D-8C5B-C08705023FD2}.Debug|x86.ActiveCfg = Debug|Win32
+		{FAF9FF45-539A-469D-8C5B-C08705023FD2}.Debug|x86.Build.0 = Debug|Win32
+		{FAF9FF45-539A-469D-8C5B-C08705023FD2}.Release|x64.ActiveCfg = Release|x64
+		{FAF9FF45-539A-469D-8C5B-C08705023FD2}.Release|x64.Build.0 = Release|x64
+		{FAF9FF45-539A-469D-8C5B-C08705023FD2}.Release|x86.ActiveCfg = Release|Win32
+		{FAF9FF45-539A-469D-8C5B-C08705023FD2}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

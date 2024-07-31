@@ -28,8 +28,11 @@ int main()
     // 해가 될 만한지 판단한 후에 유망하지 않다고 결정되면,
     // 그 노드의 이전 노드로 돌아가 다음 자식 노드로 이동합니다.
 
+    // 해가 될 만한 가능성이 있으면 유망하다. (Promising)
+    // 유망하지 않은 노드에 가지 않는 것      (Pruning)
+
     HanoiTower(3, 'A', 'B', 'C');
-#pragma endregion
+#pragma endregion 
 
 
     return 0;
